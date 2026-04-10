@@ -1,0 +1,7 @@
+.env
+venv/
+AI_MUSIC_COMPOSER.egg-info/
+gcp-key.json
+__pycache__/
+*.pyc
+*.pyo
